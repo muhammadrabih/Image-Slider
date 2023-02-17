@@ -1,2 +1,2 @@
 # Image-Slider
-Image slider is built with vanilla JavaScript.
+An image slider built with vanilla JavaScript.
